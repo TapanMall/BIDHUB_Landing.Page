@@ -1,9 +1,9 @@
 const properties = [
   {
     images: [
-      'Resource/images/PROPERTY/1st(a).jpg',
-      'Resource/images/PROPERTY/1st(b).jpg',
-      'Resource/images/PROPERTY/1st(c).jpg'
+      'Resource/images/property/1A.jpg',
+      'Resource/images/property/1B.jpg',
+      'Resource/images/property/1C.jpg'
     ],
     title: 'Kilauea, Kauai',
     location: 'Hawaii US',
@@ -12,9 +12,9 @@ const properties = [
   },
   {
     images: [
-      'Resource/images/PROPERTY/2nd(a).jpg',
-      'Resource/images/PROPERTY/2nd(b).jpg',
-      'Resource/images/PROPERTY/2nd(c).jpg'
+      'Resource/images/property/2A.jpg',
+      'Resource/images/property/2B.jpg',
+      'Resource/images/property/2C.jpg'
     ],
     title: 'Ivyland, Near Philadelphia',
     location: 'Pennsylvania, US',
@@ -23,9 +23,9 @@ const properties = [
   },
   {
     images: [
-      'Resource/images/PROPERTY/3rd(a).jpg',
-      'Resource/images/PROPERTY/3rd(b).jpg',
-      'Resource/images/PROPERTY/3rd(c).jpg'
+      'Resource/images/property/3A.jpg',
+      'Resource/images/property/3B.jpg',
+      'Resource/images/property/3C.jpg'
     ],
     title: 'Princeville, North Shore Kauai',
     location: 'Hawaii, US',
@@ -34,9 +34,9 @@ const properties = [
   },
   {
     images: [
-      'Resource/images/PROPERTY/4th(a).jpg',
-      'Resource/images/PROPERTY/4th(b).jpg',
-      'Resource/images/PROPERTY/4th(c).jpg'
+      'Resource/images/property/4A.jpg',
+      'Resource/images/property/4B.jpg',
+      'Resource/images/property/4C.jpg'
     ],
     title: 'Slidell, New Orleans Area',
     location: 'Louisiana, US',
@@ -45,9 +45,9 @@ const properties = [
   },
   {
     images: [
-      'Resource/images/PROPERTY/5th(a).jpg',
-      'Resource/images/PROPERTY/5th(b).jpg',
-      'Resource/images/PROPERTY/5th(c).jpg'
+      'Resource/images/property/5A.jpg',
+      'Resource/images/property/5B.jpg',
+      'Resource/images/property/5C.jpg'
     ],
     title: 'Gibson Island, Chesapeake Bay',
     location: 'Maryland, US',
@@ -56,9 +56,9 @@ const properties = [
   },
   {
   images: [
-      'Resource/images/PROPERTY/6th(a).jpg',
-      'Resource/images/PROPERTY/6th(b).jpg',
-      'Resource/images/PROPERTY/6th(c).jpg'
+      'Resource/images/property/6A.jpg',
+      'Resource/images/property/6B.jpg',
+      'Resource/images/property/6C.jpg'
   ],
   title: 'Mount Shasta',
   location: 'California, US',
