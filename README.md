@@ -1,55 +1,45 @@
-# 🏡 Bidhub Landing Page
+## 🏡 Bidhub Landing Page
+A responsive and modern landing page for Bidhub — a premium luxury property auction platform.
+This page showcases the platform’s vision with a sleek, professional design to create a strong first impression.
 
-A responsive and modern landing page for **Bidhub** — a premium luxury property auction platform. This page introduces the platform’s vision and gives users a sleek, professional first impression.
+## ✨ Features
+🎨 Clean & Professional UI – Minimal, elegant, and brand-focused.
 
----
+📱 Fully Responsive Design – Optimized for mobile, tablet, and desktop.
 
-## 📌 Features
+📄 Well-structured Sections – Introduction, features, how it works, and call-to-action.
 
-- ✅ Clean and professional UI
-- ✅ Fully responsive design (mobile & desktop)
-- ✅ Sections for introduction, features, and call to action
-- ✅ Organized folder structure
+🗂 Organized Project Structure – Easy to maintain and expand.
 
----
+## 🛠️ Tech Stack
+HTML5 – Semantic and SEO-friendly structure.
 
-## 🛠️ Technologies Used
+CSS3 – Responsive layout with custom styling.
 
-- HTML5  
-- CSS3  
-- JavaScript
+JavaScript – Interactive elements and functionality.
 
----
+## 🚀 Getting Started
+1️⃣ Clone the repository:
+git clone https://github.com/your-username/bidhub-landing-page.git
 
-## 📁 Project Structure
-
-LANDING PAGE/
-├── index.html
-├── script.js
-├── style.css
-└── Resource/
-    ├── images/
-    └── Video/
-
----
-
-## 🚀 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/bidhub-landing-page.git
-Open the project folder:
-
+2️⃣ Open the project folder:
 cd bidhub-landing-page
-Launch the landing page:
 
-Double-click on index.html
-or
+3️⃣ Launch the landing page:
+Windows: Double-click index.html or
+start index.html
+macOS:
+open index.html
+## 📸 Preview
 
-Open in browser with:
+<img width="1890" height="961" alt="Screenshot 2025-08-13 105633" src="https://github.com/user-attachments/assets/ca486ef8-d024-452b-af9f-ca712538017b" />
+<img width="1891" height="960" alt="Screenshot 2025-08-13 105624" src="https://github.com/user-attachments/assets/ead7105f-8096-43b0-adf0-f19e571ab74e" />
+<img width="1884" height="965" alt="Screenshot 2025-08-13 105612" src="https://github.com/user-attachments/assets/6fe247eb-fd23-4bd0-95ac-012763b5a462" />
+<img width="1895" height="956" alt="Screenshot 2025-08-13 105600" src="https://github.com/user-attachments/assets/6124c8ab-541c-437a-841b-1b54a1343b6f" />
 
-start index.html    # Windows
-open index.html     # macOS
+## Live Preview 
 
-✨ Author
-Made with 💻 by Tapan Mall
+
+## ✍️ Author
+Tapan Mall
+Made with 💻 & ❤️ by Tapan Mall
