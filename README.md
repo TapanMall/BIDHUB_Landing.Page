@@ -2,6 +2,10 @@
 A responsive and modern landing page for Bidhub — a premium luxury property auction platform.
 This page showcases the platform’s vision with a sleek, professional design to create a strong first impression.
 
+## Live Preview 
+
+
+
 ## ✨ Features
 🎨 Clean & Professional UI – Minimal, elegant, and brand-focused.
 
@@ -32,13 +36,10 @@ macOS:
 open index.html
 ## 📸 Preview
 
-<img width="1890" height="961" alt="Screenshot 2025-08-13 105633" src="https://github.com/user-attachments/assets/ca486ef8-d024-452b-af9f-ca712538017b" />
-<img width="1891" height="960" alt="Screenshot 2025-08-13 105624" src="https://github.com/user-attachments/assets/ead7105f-8096-43b0-adf0-f19e571ab74e" />
-<img width="1884" height="965" alt="Screenshot 2025-08-13 105612" src="https://github.com/user-attachments/assets/6fe247eb-fd23-4bd0-95ac-012763b5a462" />
-<img width="1895" height="956" alt="Screenshot 2025-08-13 105600" src="https://github.com/user-attachments/assets/6124c8ab-541c-437a-841b-1b54a1343b6f" />
-
-## Live Preview 
-
+<img width="1884" height="965" alt="Screenshot 2025-08-13 105612" src="https://github.com/user-attachments/assets/553a1bae-8175-4789-8265-d286adfd5520" />
+<img width="1895" height="956" alt="Screenshot 2025-08-13 105600" src="https://github.com/user-attachments/assets/d0a43954-2c30-4645-9e47-79b626dd4011" />
+<img width="1891" height="960" alt="Screenshot 2025-08-13 105624" src="https://github.com/user-attachments/assets/dcd00cbf-06c7-482f-a393-21bd83443bf4" />
+<img width="1890" height="961" alt="Screenshot 2025-08-13 105633" src="https://github.com/user-attachments/assets/4ef4b1cd-81a4-4270-86b9-da7c0c62d6ec" />
 
 ## ✍️ Author
 Tapan Mall
