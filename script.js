@@ -1,9 +1,9 @@
 const properties = [
   {
     images: [
-      'Resource/images/property/1A.jpg',
-      'Resource/images/property/1B.jpg',
-      'Resource/images/property/1C.jpg'
+      'Resource/images/property/1A.webp',
+      'Resource/images/property/1B.webp',
+      'Resource/images/property/1C.webp'
     ],
     title: 'Kilauea, Kauai',
     location: 'Hawaii US',
@@ -12,9 +12,9 @@ const properties = [
   },
   {
     images: [
-      'Resource/images/property/2A.jpg',
-      'Resource/images/property/2B.jpg',
-      'Resource/images/property/2C.jpg'
+      'Resource/images/property/2A.webp',
+      'Resource/images/property/2B.webp',
+      'Resource/images/property/2C.webp'
     ],
     title: 'Ivyland, Near Philadelphia',
     location: 'Pennsylvania, US',
@@ -23,9 +23,9 @@ const properties = [
   },
   {
     images: [
-      'Resource/images/property/3A.jpg',
-      'Resource/images/property/3B.jpg',
-      'Resource/images/property/3C.jpg'
+      'Resource/images/property/3A.webp',
+      'Resource/images/property/3B.webp',
+      'Resource/images/property/3C.webp'
     ],
     title: 'Princeville, North Shore Kauai',
     location: 'Hawaii, US',
@@ -34,9 +34,9 @@ const properties = [
   },
   {
     images: [
-      'Resource/images/property/4A.jpg',
-      'Resource/images/property/4B.jpg',
-      'Resource/images/property/4C.jpg'
+      'Resource/images/property/4A.webp',
+      'Resource/images/property/4B.webp',
+      'Resource/images/property/4C.webp'
     ],
     title: 'Slidell, New Orleans Area',
     location: 'Louisiana, US',
@@ -45,9 +45,9 @@ const properties = [
   },
   {
     images: [
-      'Resource/images/property/5A.jpg',
-      'Resource/images/property/5B.jpg',
-      'Resource/images/property/5C.jpg'
+      'Resource/images/property/5A.webp',
+      'Resource/images/property/5B.webp',
+      'Resource/images/property/5C.webp'
     ],
     title: 'Gibson Island, Chesapeake Bay',
     location: 'Maryland, US',
@@ -56,9 +56,9 @@ const properties = [
   },
   {
   images: [
-      'Resource/images/property/6A.jpg',
-      'Resource/images/property/6B.jpg',
-      'Resource/images/property/6C.jpg'
+      'Resource/images/property/6A.webp',
+      'Resource/images/property/6B.webp',
+      'Resource/images/property/6C.webp'
   ],
   title: 'Mount Shasta',
   location: 'California, US',
